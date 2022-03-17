@@ -11,3 +11,4 @@
 - Resim , sıralı liste ve link eklendi.
 - emmet özellikleri kullanıldı.
 - block, inline elementler kullanıldı.
+(https://github.com/alkameozsoy/patika_html_-dev_2/blob/main/ss1.png)
