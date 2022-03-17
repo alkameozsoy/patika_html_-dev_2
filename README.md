@@ -12,3 +12,4 @@
 - emmet özellikleri kullanıldı.
 - block, inline elementler kullanıldı.
 (https://github.com/alkameozsoy/patika_html_-dev_2/blob/main/ss1.png)
+(https://github.com/alkameozsoy/patika_html_-dev_2/blob/main/ss2.png)
